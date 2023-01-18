@@ -81,6 +81,9 @@ MEM：64G
 ・CSP用プリセットファイル
 　→　/yohRyou_CSP.ini
 
+・ReShade用プリセットファイル
+　→　/RS_SRP_night_cam.ini
+
 ・video設定のキャプチャ画像
 　→　/設定.png
 
